@@ -1,5 +1,6 @@
 import React from 'react'
 import Players from './Players.js';
+import "./Cricket.css"
 
 const Cricket = () => {
   return (
